@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2203\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2203\baseobject.h
+	"CommonFunc.h"
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2203\commonfunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2203\commonfunc.cpp
+	"CommonFunc.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2203\game_map.cpp
+	"game_map.h"
+	"CommonFunc.h"
+	<iostream>
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2203\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2203\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"game_map.h"
+	"random_map.h"
+	"MainObject.h"
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2203\random_map.h
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2203\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2203\mainobject.cpp
+	"MainObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2203\random_map.cpp
+	"random_map.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2103\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2103\baseobject.h
+	"CommonFunc.h"
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2103\commonfunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2103\commonfunc.cpp
+	"CommonFunc.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2103\game_map.cpp
+	"game_map.h"
+	"CommonFunc.h"
+	<iostream>
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2103\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2103\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"game_map.h"
+	"random_map.h"
+	"MainObject.h"
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2103\random_map.h
+
+1742954944 c:\users\vvrai\desktop\tiendogame\2103\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2103\mainobject.cpp
+	"MainObject.h"
+
+1742954944 source:c:\users\vvrai\desktop\tiendogame\2103\random_map.cpp
+	"random_map.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+

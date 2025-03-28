@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1742122391 source:c:\users\vvrai\desktop\code\please\commonfunc.cpp
+	"CommonFunc.h"
+
+1742196259 c:\users\vvrai\desktop\code\please\commonfunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+
+1742238505 source:c:\users\vvrai\desktop\code\please\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"game_map.h"
+	"random_map.h"
+	"MainObject.h"
+
+1742124752 source:c:\users\vvrai\desktop\code\please\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1742196235 c:\users\vvrai\desktop\code\please\baseobject.h
+	"CommonFunc.h"
+
+1742243127 source:c:\users\vvrai\desktop\code\please\game_map.cpp
+	"game_map.h"
+	"CommonFunc.h"
+	<iostream>
+
+1742236677 c:\users\vvrai\desktop\code\please\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742243144 source:c:\users\vvrai\desktop\code\please\random_map.cpp
+	"random_map.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1742149332 c:\users\vvrai\desktop\code\please\random_map.h
+
+1742242919 source:c:\users\vvrai\desktop\code\please\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1742239243 c:\users\vvrai\desktop\code\please\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742300358 source:c:\users\vvrai\desktop\code\please\imptimer.cpp
+	"ImpTimer.h"
+
+1742300349 c:\users\vvrai\desktop\code\please\imptimer.h
+
+1742331190 source:c:\users\vvrai\desktop\code\penguin\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1743123014 c:\users\vvrai\desktop\code\penguin\baseobject.h
+	"CommonFunc.h"
+
+1743003943 c:\users\vvrai\desktop\code\penguin\commonfunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"BaseObject.h"
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1742122391 source:c:\users\vvrai\desktop\code\penguin\commonfunc.cpp
+	"CommonFunc.h"
+
+1742952604 source:c:\users\vvrai\desktop\code\penguin\game_map.cpp
+	"game_map.h"
+	"CommonFunc.h"
+	<iostream>
+
+1742236677 c:\users\vvrai\desktop\code\penguin\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742453339 source:c:\users\vvrai\desktop\code\penguin\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1742323769 c:\users\vvrai\desktop\code\penguin\imptimer.h
+
+1743130174 source:c:\users\vvrai\desktop\code\penguin\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"game_map.h"
+	"random_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"music.h"
+
+1742635684 c:\users\vvrai\desktop\code\penguin\random_map.h
+
+1743128261 c:\users\vvrai\desktop\code\penguin\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	<string>
+	"music.h"
+
+1743147675 source:c:\users\vvrai\desktop\code\penguin\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1742925121 source:c:\users\vvrai\desktop\code\penguin\random_map.cpp
+	"random_map.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"game_map.h"
+
+1743129043 source:c:\users\vvrai\desktop\code\penguin\music.cpp
+	"music.h"
+	"CommonFunc.h"
+
+1743147518 c:\users\vvrai\desktop\code\penguin\music.h
+	"CommonFunc.h"
+

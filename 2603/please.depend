@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1742122391 source:c:\users\vvrai\desktop\code\please\commonfunc.cpp
+	"CommonFunc.h"
+
+1742196259 c:\users\vvrai\desktop\code\please\commonfunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+
+1742238505 source:c:\users\vvrai\desktop\code\please\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"game_map.h"
+	"random_map.h"
+	"MainObject.h"
+
+1742124752 source:c:\users\vvrai\desktop\code\please\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1742196235 c:\users\vvrai\desktop\code\please\baseobject.h
+	"CommonFunc.h"
+
+1742243127 source:c:\users\vvrai\desktop\code\please\game_map.cpp
+	"game_map.h"
+	"CommonFunc.h"
+	<iostream>
+
+1742236677 c:\users\vvrai\desktop\code\please\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742243144 source:c:\users\vvrai\desktop\code\please\random_map.cpp
+	"random_map.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1742149332 c:\users\vvrai\desktop\code\please\random_map.h
+
+1742242919 source:c:\users\vvrai\desktop\code\please\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1742239243 c:\users\vvrai\desktop\code\please\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742300358 source:c:\users\vvrai\desktop\code\please\imptimer.cpp
+	"ImpTimer.h"
+
+1742300349 c:\users\vvrai\desktop\code\please\imptimer.h
+
+1742331190 source:c:\users\vvrai\desktop\code\penguin\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1742321790 c:\users\vvrai\desktop\code\penguin\baseobject.h
+	"CommonFunc.h"
+
+1742547214 c:\users\vvrai\desktop\code\penguin\commonfunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+
+1742122391 source:c:\users\vvrai\desktop\code\penguin\commonfunc.cpp
+	"CommonFunc.h"
+
+1742323161 source:c:\users\vvrai\desktop\code\penguin\game_map.cpp
+	"game_map.h"
+	"CommonFunc.h"
+	<iostream>
+
+1742236677 c:\users\vvrai\desktop\code\penguin\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742453339 source:c:\users\vvrai\desktop\code\penguin\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1742323769 c:\users\vvrai\desktop\code\penguin\imptimer.h
+
+1742641145 source:c:\users\vvrai\desktop\code\penguin\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"game_map.h"
+	"random_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+
+1742635684 c:\users\vvrai\desktop\code\penguin\random_map.h
+
+1742601706 c:\users\vvrai\desktop\code\penguin\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	<string>
+
+1742635016 source:c:\users\vvrai\desktop\code\penguin\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1742637904 source:c:\users\vvrai\desktop\code\penguin\random_map.cpp
+	"random_map.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"game_map.h"
+
+1742331190 source:c:\users\vvrai\desktop\code\2203real\baseobject.cpp
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1742321790 c:\users\vvrai\desktop\code\2203real\baseobject.h
+	"CommonFunc.h"
+
+1742547214 c:\users\vvrai\desktop\code\2203real\commonfunc.h
+	<iostream>
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+
+1742122391 source:c:\users\vvrai\desktop\code\2203real\commonfunc.cpp
+	"CommonFunc.h"
+
+1742323161 source:c:\users\vvrai\desktop\code\2203real\game_map.cpp
+	"game_map.h"
+	"CommonFunc.h"
+	<iostream>
+
+1742236677 c:\users\vvrai\desktop\code\2203real\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1742453339 source:c:\users\vvrai\desktop\code\2203real\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1742323769 c:\users\vvrai\desktop\code\2203real\imptimer.h
+
+1742641145 source:c:\users\vvrai\desktop\code\2203real\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"game_map.h"
+	"random_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+
+1742635684 c:\users\vvrai\desktop\code\2203real\random_map.h
+
+1742601706 c:\users\vvrai\desktop\code\2203real\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	<string>
+
+1742635016 source:c:\users\vvrai\desktop\code\2203real\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1742660293 source:c:\users\vvrai\desktop\code\2203real\random_map.cpp
+	"random_map.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"game_map.h"
+
